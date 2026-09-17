@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --color-cafe-espresso: #20120B;
+  --color-cafe-dark: #2C1810;
+  --color-cafe-mocha: #4A2E1B;
+  --color-cafe-caramel: #8C5E3C;
+  --color-cafe-gold: #C5A059;
+  --color-cafe-gold-light: #E0C17B;
+  --color-cafe-sand: #EADBC8;
+  --color-cafe-beige: #F5EDE4;
+  --color-cafe-cream: #FAF7F2;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  background-color: #FAF7F2;
+  color: #2C1810;
+}
+
+.font-serif-heading {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}

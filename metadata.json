@@ -1,0 +1,6 @@
+{
+  "name": "BAN Caffe Shop",
+  "description": "Modern, elegant, and attractive coffee shop website for BAN Caffe Shop featuring artisan brewed coffee, fresh treats, and a warm aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
